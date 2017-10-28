@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  AlamofireWithSwiftyJSON
 //
-//  Created by MAC-186 on 4/12/16.
-//  Copyright © 2016 Kode. All rights reserved.
+//  Created by Nikita on 10/26/17.
+//  Copyright © 2017 Nikita. All rights reserved.
 //
 
 import UIKit
